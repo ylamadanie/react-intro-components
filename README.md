@@ -1,12 +1,15 @@
 # Exercise 2 – React Intro Components
 
-Created for **ACCTMIS 4630 – Business Systems Application Development**.  
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+Created for **ACCTMIS 4630 coursework – Business Systems Application Development**.  
 The goal of this assignment was to **install Node.js, configure VS Code, run a basic React tutorial, and publish the app to GitHub**.
 
 ---
 
 ## 📝 Overview
-- Install **Node.js LTS 16.14** to run JavaScript outside the browser
+- Install **Node.js (LTS)** to run JavaScript outside the browser
 - Set up a React project following the VS Code tutorial
 - Practice using **components, props, and simple state**
 - Publish the working React app to GitHub
